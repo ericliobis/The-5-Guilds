@@ -1,0 +1,1 @@
+back_room = i_GameVars.backrm

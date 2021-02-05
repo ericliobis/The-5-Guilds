@@ -1,0 +1,1 @@
+coinnum = 3
